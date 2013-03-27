@@ -16,6 +16,7 @@ public class ServoTest
                 PinState.LOW);		
 		
 		//http://en.wikipedia.org/wiki/Servo_control
+		//http://upload.wikimedia.org/wikipedia/commons/b/b7/Sinais_controle_servomotor.JPG
 		//1000 == -90°
 		//1500 == 0°
 		//2000 == 90°
